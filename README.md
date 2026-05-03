@@ -1,6 +1,6 @@
 Hello everyone, this is a work in progress stuff at the moment i'm developing an os for emo (a robot from living.ai) if you were just checking this wire-os thingy in forks i hate to disapoint you but this is not going to start for a while ... T-T
 
-anyway after i stable out emo part and reverse engineer it with my friends (aka the emo libre project) i'll start commiting here bringing new cool changes that people need (if you want an project that replicate's the emo magic from living.ai
+anyway after i stable out emo part and reverse engineer it with my friends (aka the emo libre project) i'll start commiting here bringing new cool changes that people need (if you want an project that replicate's the emo magic from living.ai)
 
 the main goals of this project is to :-
 1) bring the living.ai magic to vector
