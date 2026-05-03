@@ -6,7 +6,7 @@ the main goals of this project is to :-
 1) bring the living.ai magic to vector
 2) make qol changes
 3) add emotion detection (if it is there allready improve it)
-4) use both new and old animation's
+4) use both new and old animations frequently
 5) overhowl the animations and sound (after qol features)
 6) make vector talk more and improve his sound generation design
 
