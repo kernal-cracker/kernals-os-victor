@@ -9,6 +9,7 @@ the main goals of this project is to :-
 4) use both new and old animations frequently
 5) overhowl the animations and sound (after qol features)
 6) make vector talk more and improve his sound generation design
+7) make emo and vector cross comunicate
 
 Although this might sound like a usefull os rn it is just going to be updated with wire-os for a while till i finish my emo project with the emo libre team 
 and none of the above goals are fixed to be implemented unfortunatly since i need to study vecter's filesystem and code
